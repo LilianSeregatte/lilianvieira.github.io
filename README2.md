@@ -10,4 +10,3 @@ eu tinha esquecido de falar o que eu queria falar
 
 As minhas exerimentações
 
-huahuahuauayay
