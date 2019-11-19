@@ -1,5 +1,10 @@
 # Este é o meu primeiro repositorio git
+<<<<<<< HEAD
 Meu nome é Lilian Vieira
+=======
+Minha profissao e engenheiro de software
+
+>>>>>>> feature/minhaprofisao
 Neste repositorio colocarei o meu portfolio de desenvolvedor
 
 Agora eu quero falar mais sobre mim, e o que eu quero falar é que 
