@@ -1,10 +1,7 @@
 # Este é o meu primeiro repositorio git
-<<<<<<< HEAD
 Meu nome é Lilian Vieira
-=======
 Minha profissao e engenheiro de software
 
->>>>>>> feature/minhaprofisao
 Neste repositorio colocarei o meu portfolio de desenvolvedor
 
 Agora eu quero falar mais sobre mim, e o que eu quero falar é que 
@@ -16,3 +13,5 @@ eu tinha esquecido de falar o que eu queria falar
 As minhas exerimentações
 
 Resolvi um bug que tinha nessa linha
+
+Quero testar se estou conseguindo enviar ao github
